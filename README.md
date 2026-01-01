@@ -53,6 +53,7 @@ Kapamilya Channel HD
 TV 5
 PTV
 GMA Network
+DREAMWORKS (TAGALIZED)
 ```
 
 LINK TO IPTV M3U:
