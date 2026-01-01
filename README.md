@@ -1,58 +1,80 @@
 # IPHTV
 Philippine based maintained IPTV list from various sources.
-Channel List as of 12/2/2025:
+Channel List as of 1/1/2026:
 ```
-Japanim TV
-XilamTV
-Yahoo! Finance
-EWTN Europe
-NBA TV
-Zarok TV Sorani
-Nickelodeon
-Disney Channel
-Disney XD
-Disney Jr
-EWTN Asia-Pacific
-BBC News Asia Pacific
+ONE
+BUKO
+SARI-SARI
+PTV 4
+TV5
 TV5 Monde Asia
-TV5Monde Pacifique
-TV5 Asie
-TV5 Style
-TVE Internacional Asia-Oceania
-TVE Internacional Europe-Asia
-Travel Channel
-Arirang
-ALJAZEERA
-Bloomberg
-BBC World News
-CGTN News
-CGTN Documentaries
-Outdoor Channel
-Thrillers
-American Idol
-Animal Planet
-Baywatch
-MovieSphere
-3ABN Kids
-Fanpop TV
-Blues TV
-Kariakos Kids
-Magic Kids
-Persiana Junior
-Retro Crush
-MrBean Animated Series
-Rakuten TV Action Movies
+GMA 7
+SOLAR FLIX
+KAPAMILYA CHANNEL
+ALLTV
+ONE SPORTS
+ONE SPORTS+
+ONE NEWS
+GMA PINOY TV
+CMN INTERNATIONAL 
+TRUE FM TV
+GTV
+CNBC
+IBC13
+NET 25
+DZRH NEWS
+A2Z
+CINE MO
+TAP MOVIES
+CINE ONE
+METRO CHANNEL
+ANIMAX
+CARTOONITO TW
+THRILL
+HBO
+HBO FAMILY
+HBO SIGNATURE
+HBO HITS
+HBO MOVIES
+FOOD NETWORK
+FASHION TV
+NICKELODEON 
+CARTOON NETWORK
+ANIPLUS ASIA (SINGAPORE)
+NICK JR
+DREAMWORKS (ENGLISH)
+PBA RUSH
+TAP SPORTS
+NBA TV PHILIPPINES
+NBA TV US
+AXN
+CRIME & INVESTIGATION
+HITS
+HISTORY CHANNEL
+LIFETIME
+ROCK ACTION
+HITS NOW
+TAP EDGE
+TAP TV
+LOTUS TV
+WARNER TV
+TAP ACTION FLIX
+AL JAZEERA
+ABC AUSTRALIA
+ANC
+BBC WORD NEWS UK
+DW
+CGTN
+CGTN DOCUMENTARY
+CHANNEL NEWS ASIA (CNA)
+FOX NEWS
+FRANCE 24 ENGLISH
+VOICE OF AMERICA US
+DISCOVERY ASIA 
+DISCOVERY CHANNEL
+ANIMAL PLANET
+KNOWLEDGE CHANNEL
 
-Local Channels:
-The Filipino Channel
-Bilyonario News Channel
-Mindanow Network TV
-TV Maria Philippines
-INC TV
-Kapamilya Channel HD
-TV 5
-PTV
-GMA Network
 ```
 
 LINK TO IPTV M3U:
