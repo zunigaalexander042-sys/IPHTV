@@ -28,7 +28,7 @@ BBC World News
 CGTN News
 CGTN Documentaries
 Outdoor Channel
-Thrillers
+Thrills
 American Idol
 Animal Planet
 Baywatch
