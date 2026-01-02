@@ -53,11 +53,18 @@ Kapamilya Channel HD
 TV 5
 PTV
 GMA Network
+ANIMAX
+ANIPLUS
+GTV
+CINEMO
+CINEMA ONE
+PINOY BOX OFFICE
+VIVA MOVIES
 ```
 
 LINK TO IPTV M3U:
 ```
-https://raw.githubusercontent.com/Harleythetech/IPHTV/refs/heads/main/ph.m3u
+https://iptv-org.github.io/iptv/countries/ph.m3u
 ```
 ``
     - Credits to all the sources of the working m3u links 
