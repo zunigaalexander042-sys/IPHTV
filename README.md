@@ -52,7 +52,7 @@ INC TV
 Kapamilya Channel
 TV 5
 PTV
-ALLTV
+HBO
 ```
 
 LINK TO IPTV M3U:
