@@ -53,6 +53,12 @@ Kapamilya Channel HD
 TV 5
 PTV
 GMA Network
+Nick Jr
+MNB WORLD
+AlbKanale Music TV
+ABN TV
+Anime all day
+Brat TV
 ```
 
 LINK TO IPTV M3U:
