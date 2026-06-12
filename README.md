@@ -59,8 +59,12 @@ AlbKanale Music TV
 ABN TV
 Anime all day
 Brat TV
-```
-
+GTV
+KBS WORLD
+KIX
+AXN
+ANIPLUS ASIA
+'''
 LINK TO IPTV M3U:
 ```
 https://raw.githubusercontent.com/Harleythetech/IPHTV/refs/heads/main/ph.m3u
