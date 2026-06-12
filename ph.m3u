@@ -1,4 +1,4 @@
-#EXTM3U
+h#EXTM3U
 #EXTINF:-1,Mindanow Network TV
 https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 #EXTINF:-1,BBC News Asia Pacific (720p)
@@ -79,3 +79,11 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
 #EXTINF:-1,Brat TV
 https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8
+#EXTINF:-1,GTV
+http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548700&extension=m3u8
+#EXTINF:-1,Aniplus Asia
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+#EXTINF:-1,KBS WORLD
+https://epg.pm/stream/395d673036d1fa1aba78f67dec15d116c50197216c4c6d0de9da30bd60a8f07f.m3u8
+#EXTINF:-1,Animax Asia
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
