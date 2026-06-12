@@ -1,6 +1,6 @@
 # IPHTV
 Philippine based maintained IPTV list from various sources.
-Channel List as of 12/2/2025:
+Channel List as of 6/12/2026:
 ```
 Japanim TV
 XilamTV
@@ -62,7 +62,7 @@ Brat TV
 GTV
 KBS WORLD
 KIX
-AXN
+Animax Asia
 ANIPLUS ASIA
 '''
 LINK TO IPTV M3U:
