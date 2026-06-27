@@ -51,6 +51,7 @@ A2Z
 DepEd TV
 Vegas Life TV
 FilAm TV Network
+DreamWorks Asia
 ```
 
 LINK TO IPTV M3U:
