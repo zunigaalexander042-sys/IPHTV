@@ -52,6 +52,9 @@ DepEd TV
 Vegas Life TV
 FilAm TV Network
 DreamWorks Asia
+Cartoon Network
+KBS WORLD
+Cinema One
 ```
 
 LINK TO IPTV M3U:
